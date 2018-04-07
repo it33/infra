@@ -5,7 +5,7 @@
 
 InfraFX optimizes and enhances enterprise-scale workloads across public cloud and on-prem platforms to reduce operating expense while increasing agility and output. 
 
-To learn more contact us at contract@infrafx.com 
+To learn more contact us at contract@infrafx.com.
 
 ## About Us 
 
